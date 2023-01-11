@@ -1,9 +1,11 @@
 import string
 from random import random, choice
 
-print ('qual o nome do email você quer?')
+print ('qual o nome do corpo do email você quer?')
+print ('exemplo: fernandas, fernandamoura, abacaxibolado ')
 corpo_email = input ()
-print('escolha números para o email (possa ser que já exista um com o mesmo nome, mas não com números iguais)')
+print('escolha números para o email')
+print ('possa ser que já exista um com o mesmo nome, mas não com números iguais')
 numero= input()
 print ('qual o tipo de extensão você quer?')
 print('1- gmail.com   2- hotmail.com   3- protonmail.com')
