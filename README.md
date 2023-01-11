@@ -1,0 +1,1 @@
+# gerador_email_e_senha
